@@ -45,11 +45,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8859639185:AAGzl_1_YuYtZj647-su7YjCZYBwyeB4CU8' # Replace with your actual token
-OWNER_ID = 7927289900 # Replace with your Owner ID
+TOKEN = '8555225751:AAFhT6MJAOcnjdGq4a4JIsVHjbYAdCccmtk' # Replace with your actual token
+OWNER_ID = 8193412717 # Replace with your Owner ID
 ADMIN_ID = 7964730489 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = '@VIRALOWNER' # Replace with your Telegram username (without the @)
-UPDATE_CHANNEL = 'https://t.me/+pVHbisAzw9IzOWI1' # Replace with your update channel link
+YOUR_USERNAME = '@OWNER_BHAI_10' # Replace with your Telegram username (without the @)
+UPDATE_CHANNEL = 'https://t.me/CUTELOVE_0?livestream=e04cc555dca670000c' # Replace with your update channel link
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__)) # Get script's directory
